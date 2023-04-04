@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Christian Hermiston",
+      "id": 4
+    },
+    {
+      "name": "Elena Pagac",
+      "id": 5
+    },
+    {
+      "name": "Grace Runolfsson",
+      "id": 6
+    },
+    {
+      "name": "Willie Jenkins",
+      "id": 7
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Handmade Metal Pants",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Cotton Chicken",
+      "id": 19
+    },
+    {
+      "userId": 4,
+      "title": "Gorgeous Wooden Pants",
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Steel Shirt",
+      "id": 21
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=67750",
+      "id": 4
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=95662",
+      "id": 5
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=82272",
+      "id": 6
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=53947",
+      "id": 7
+    }
+  ]
+}
